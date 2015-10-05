@@ -64,3 +64,7 @@ Since Magento 1 has been implemented in the way that there is no chance to use c
 ### Functional Tests
 
 [Magento Testing Framework](https://github.com/magento/mtf)
+
+# Contribution
+
+Feel free to create pull request for your updates.
