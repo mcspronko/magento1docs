@@ -34,6 +34,8 @@ Current latest version is Magento 1.9.2.1 : https://www.magentocommerce.com/down
 
 [How to create Magento Module](http://www.smashingmagazine.com/2012/03/basics-creating-magento-module/)
 
+[How to create Multi Language Stores](http://sherodesigns.com/magento-tutorial-creating-multi-language-stores/)
+
 ### Magento API
 
 [SOAP](http://devdocs.magento.com/guides/m1x/api/soap-api-index.html)
