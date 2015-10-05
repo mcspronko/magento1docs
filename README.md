@@ -16,6 +16,8 @@ Current latest version is Magento 1.9.2.1 : https://www.magentocommerce.com/down
 
 ## Tutorials
 
+[Official Magento User's Guide](http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html#section-getting-started.html%3FTocPath%3DGetting%2520Started%7C_____0)
+
 [Official Magento for Developers](http://devdocs.magento.com/guides/m1x/magefordev/mage-for-dev-1.html)
 
 [Getting Started with Magento](http://code.tutsplus.com/tutorials/getting-started-with-magento-ecommerce--net-4223)
